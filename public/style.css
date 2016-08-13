@@ -1,0 +1,39 @@
+@import url(https://fonts.googleapis.com/css?family=Ubuntu|Droid+Sans);
+
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  background-image: url("img/light-bg1.png");
+  color: black;
+  text-align: center;
+}
+.title {
+  font-size: 40px;
+  font-family: "Ubuntu";
+}
+
+.btn {
+  font-size: inherit;
+  color: white;
+  background-color: purple;
+  text-decoration: none;
+  padding: 10px;
+  display: inline-block;
+}
+.trophy {
+  height: 40vmin;
+}
+.guess {
+  font-size: 2em;
+  display: block;
+  margin: 0 auto 1em;
+}
+
+h1 {
+  color: blue;
+  font-family: "Droid Sans";
+}
+
